@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  height: 100vh;
+}
+
+.main-content {
+  background-color: #f4f6f8;
+  overflow-y: auto;
+}

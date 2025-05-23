@@ -1,0 +1,16 @@
+.tabela-agendamentos {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.tabela-agendamentos th,
+.tabela-agendamentos td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.tabela-agendamentos th {
+  background-color: #f4f4f4;
+}
